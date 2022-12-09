@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Milca",
+    "carrera": "Software",
+    "nivel": 2
+  },
+  {
+    "nombre": "Cris",
+    "carrera": "Biotecnologia",
+    "nivel": "4"
+  }
+]
